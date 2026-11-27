@@ -13,7 +13,7 @@ This project investigates how passenger class, sex, age, fare, family size, and 
 - Tools: Microsoft Excel, Power Query, PivotTables and Excel dashboards.
 
 - ## Key Findings
-- Overall survival rate: 36.36%.
+- Overall survival rate: 36.36% in which all of them are female.
 - Total non-survivors: 266.
 - Third Class recorded the highest survivor count, with 72 passengers.
 - Survival outcomes varied across passenger demographics.
